@@ -1,0 +1,133 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+medCli
+medCli.exe
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+coverage.txt
+coverage.html
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directories
+vendor/
+
+# Go build cache
+.cache/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+.classpath
+
+# Compiled Object files, Static and Dynamic libs
+*.o
+*.a
+
+# Folders
+_obj
+_test
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+# cgo generated files
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+# Test cache
+.cache
+
+# Output directories
+dist/
+build/
+bin/
+out/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+
+# Environment and configuration files (if they contain secrets)
+.env
+.env.local
+.env.*.local
+*.local.yaml
+secrets.yaml
+
+# Keep the template config but ignore local modifications
+# config.yaml (uncomment if you want to ignore local config changes)
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Debug files
+debug
+debug.test
+__debug_bin
+
+# Air (live reload) files
+tmp/
+.air.toml
+
+# Private keys and certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+
+# Database files (if any local DBs are used)
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Node modules (if you have any frontend components)
+node_modules/
+
+# Documentation build outputs
+docs/_build/
+docs/.doctrees/
+
+# Test data (optional - remove if you want to commit test data)
+# data/test_*.csv
+
+# Profiling data
+*.pprof
+cpu.prof
+mem.prof
+profile.out
+
+# Goreleaser
+dist/
+.goreleaser.yml.backup

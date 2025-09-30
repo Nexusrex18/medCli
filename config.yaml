@@ -1,0 +1,11 @@
+cache:
+  enabled: true
+  ttl: "1h"
+  max_items: 1000
+display:
+  theme: "dark"
+  animations: true
+  page_size: 10
+  auto_refresh: true
+csv:
+  file_path: "data/medicine_data.csv"
