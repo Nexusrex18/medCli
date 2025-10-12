@@ -7,5 +7,5 @@ display:
   animations: true
   page_size: 10
   auto_refresh: true
-csv:
-  file_path: "data/medicine_data.csv"
+# csv:
+#   file_path: "/usr/local/share/medCli/medicine_data.csv"
