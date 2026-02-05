@@ -19,6 +19,16 @@ A **FHIR R4-compliant Traditional Medicine to ICD-11 TM2 mapping service** built
 curl -fsSL https://raw.githubusercontent.com/Nexusrex18/medCli/main/install.sh | bash
 ```
 
+## Demo Images
+
+![MedCli Banner](https://raw.githubusercontent.com/Nexusrex18/medCli/main/assets/images/img1.png)
+![MedCli Banner](https://raw.githubusercontent.com/Nexusrex18/medCli/main/assets/images/img2.png)
+![MedCli Banner](https://raw.githubusercontent.com/Nexusrex18/medCli/main/assets/images/img3.png)
+![MedCli Banner](https://raw.githubusercontent.com/Nexusrex18/medCli/main/assets/images/img4.png)
+![MedCli Banner](https://raw.githubusercontent.com/Nexusrex18/medCli/main/assets/images/img5.png)
+
+
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
